@@ -1,2 +1,2 @@
-# written_works
+# 100 Words
 [Leap](leap.pdf)
